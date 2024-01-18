@@ -1,1 +1,2 @@
-![logo](https://github.com/D1shwasherSafe/Better-Worse-Trackers/assets/156151647/983d3530-a900-4645-8b67-d35748848580)
+
+![DSD_Component_Breakdown](https://github.com/D1shwasherSafe/Better-Worse-Trackers/assets/156151647/7e43af12-5f5d-4802-b1be-6a4394140108)
