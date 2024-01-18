@@ -2,4 +2,5 @@ Hi, this is a project I started to create a chassis for custom SlimeVR trackers.
 
 Any questions, concerns or recommendations? Shoot me a DM on twitter!
  - https://twitter.com/DishwasherEtc - https://twitter.com/D1shwasherSafe
+
 ![DSD_Component_Breakdown](https://github.com/D1shwasherSafe/Better-Worse-Trackers/assets/156151647/7e43af12-5f5d-4802-b1be-6a4394140108)
